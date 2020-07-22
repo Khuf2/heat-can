@@ -9,7 +9,3 @@ At UCSC, our professors urge us to understand how to create most of the pre-exis
 #### Week 1: Primitive types, lists/arrays, list/strings methods, conditionals, loops
 #### Week 2: Nested loops, string building, string manipulation, array slicing
 #### Week 3: Dictionaries, tuples, objects
-#### Week 4: Project (Dungeon Crawl, or other) development
-
-
-After the first four weeks, we can tailor the program to your student's interests, and target areas to fully develop their final project. If they aren’t interested in furthering their project, we can round out the end of the course by introducing the topics of classes and constructors, possibly even inheritance if we move quickly through the modules.
